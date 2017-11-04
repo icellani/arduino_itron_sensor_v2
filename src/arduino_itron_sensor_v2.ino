@@ -1,5 +1,3 @@
-#include <EtherCard.h>
-
 int val = 0;
 int contZero = 0;
 int ciclo = 0;
